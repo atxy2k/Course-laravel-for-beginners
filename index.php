@@ -580,7 +580,7 @@
                 <div class="section-title text-center">
                   <span> Ponte en contacto </span>
                   <h2>
-                    Ready to Get Started
+                    Formulario de contacto
                   </h2>
                 </div>
               </div>
